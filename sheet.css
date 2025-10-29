@@ -1,0 +1,67 @@
+
+    h2 
+{      color: rgb(155, 80, 10);
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif;
+        line-height: 1.5em;
+    text-decoration:underline;
+    text-decoration-color: aqua;
+}
+
+    h6 
+{      color: rgb(155, 80, 10);
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif;
+        line-height: 1.5em;
+}
+
+
+   h3 
+{      color: rgb(155, 80, 10);
+        text-align: left;
+        font-family:Arial, Helvetica, sans-serif;
+        line-height: 1.5em;
+    text-decoration:underline; 
+    text-decoration-color: aqua;
+}
+
+    body
+{    background-image:url(../superhero-website-24848AR/background.jpg);
+    background-repeat:repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    color: rgb(155, 80, 10);
+        font-family:Arial, Helvetica, sans-serif;
+}
+
+
+    nav 
+{
+    background-color: rgb(66, 63, 63);
+    line-height: 200%;
+    display: block;
+}
+
+    nav li
+{
+    display: inline;
+    padding-right: 40px;
+    list-style-type : none;
+}
+
+    nav a:link 
+{
+color:rgb(153, 78, 8) 
+}
+
+    nav a:visited
+{
+color:rgb(153, 78, 8);
+}
+
+    nav a:hover
+{
+text-decoration:underline;
+
+}
