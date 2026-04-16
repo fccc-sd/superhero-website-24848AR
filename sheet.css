@@ -65,3 +65,30 @@ color:rgb(153, 78, 8);
 text-decoration:underline;
 
 }
+
+table
+{
+    border: solid 3px black;
+    border-collapse: separate;
+    border-spacing: 5px;
+}
+
+tr, td, th
+{
+    border: solid 3px black;
+
+}
+
+th
+{
+    text-decoration:underline;
+    text-decoration-color: aqua;
+    text-decoration-thickness: 2px;
+}
+
+caption
+{
+    text-decoration:underline;
+    text-decoration-color: aqua;
+    text-decoration-thickness: 2px;
+}
