@@ -92,3 +92,18 @@ caption
     text-decoration-color: aqua;
     text-decoration-thickness: 2px;
 }
+
+.accordian-panel
+{
+    display:none;
+}
+
+.accordian-box
+{
+    cursor: pointer;
+}
+
+.accordian-panel.active
+{
+    display:block;
+}
